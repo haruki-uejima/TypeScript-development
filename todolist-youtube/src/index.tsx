@@ -11,3 +11,9 @@ root.render(
     <App />
   </React.StrictMode>
 );
+
+
+// import promiseSample from './asynchronous/promise'
+// import asyncAwaitSample from './asynchronous/asyncAwait'
+// promiseSample()
+// asyncAwaitSample()
